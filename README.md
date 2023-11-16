@@ -10,9 +10,13 @@
     </div>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG15aXhoenZxeGZmYzk1Z2x1ajBsZm5qdTBhejF2MHhvYzU2aXNidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif" alt="Jacksen Nillson" width="30%" height="auto" align="left" />
     <div>
+        <img style="height:160px;" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksen30&theme=chartreuse-dark" alt="Jacksen Nillson Github streak" />
+        <!-- <img style="height:135px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksen30&show_icons=true&locale=en&layout=compact&&theme=chartreuse-dark" alt="Jacksen Nillson Most Used Coding Languages" />
+        <img style="height:135px;" src="https://github-readme-stats.vercel.app/api?username=jacksen30&show_icons=true&locale=en&theme=chartreuse-dark&hide_rank=true&hide=issues,contribs&include_all_commits=true" alt="Jacksen Nillson Github Stats" /> -->
+    </div>
+    <div>
         <img style="height:135px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksen30&show_icons=true&locale=en&layout=compact&&theme=chartreuse-dark" alt="Jacksen Nillson Most Used Coding Languages" />
         <img style="height:135px;" src="https://github-readme-stats.vercel.app/api?username=jacksen30&show_icons=true&locale=en&theme=chartreuse-dark&hide_rank=true&hide=issues,contribs&include_all_commits=true" alt="Jacksen Nillson Github Stats" />
-        <img style="height:160px;" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksen30&theme=chartreuse-dark" alt="Jacksen Nillson Github streak" />
     </div>
     <h3>💻 Technologies & Tools</h3>
     <div>
