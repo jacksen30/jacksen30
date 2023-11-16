@@ -10,13 +10,11 @@
     </div>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG15aXhoenZxeGZmYzk1Z2x1ajBsZm5qdTBhejF2MHhvYzU2aXNidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif" alt="Jacksen Nillson" width="350px" height="auto" align="left" />
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksen30&show_icons=true&locale=en&layout=compact&&theme=chartreuse-dark" alt="Jacksen Nillson Most Used Coding Languages" align="right" height="160px" width="400px" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksen30&theme=chartreuse-dark" alt="Jacksen Nillson Github streak" height="190px" width="400px" align="right" />
-        <!-- <img style="height:135px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksen30&show_icons=true&locale=en&layout=compact&&theme=chartreuse-dark" alt="Jacksen Nillson Most Used Coding Languages" />
-        <img style="height:135px;" src="https://github-readme-stats.vercel.app/api?username=jacksen30&show_icons=true&locale=en&theme=chartreuse-dark&hide_rank=true&hide=issues,contribs&include_all_commits=true" alt="Jacksen Nillson Github Stats" /> -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksen30&show_icons=true&locale=en&layout=compact&&theme=chartreuse-dark" alt="Jacksen Nillson Most Used Coding Languages" align="right" height="160px" width="415px" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksen30&theme=chartreuse-dark" alt="Jacksen Nillson Github streak" height="210px" width="400px" align="right" />
         <!-- <img style="height:135px;" src="https://github-readme-stats.vercel.app/api?username=jacksen30&show_icons=true&locale=en&theme=chartreuse-dark&hide_rank=true&hide=issues,contribs&include_all_commits=true" alt="Jacksen Nillson Github Stats" /> -->
     </div>
-    <h3>💻 Technologies & Tools</h3>
+    <div><h3>💻 Technologies & Tools</h3></div>
     <div>
         <img src="./images/html-logo.png" alt="HTML5 Logo">
         <img src="./images/css-logo.png" alt="CSS3 Logo">
