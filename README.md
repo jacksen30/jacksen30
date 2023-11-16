@@ -8,7 +8,7 @@
         👨‍💻 Eager to transition into a programming career and contribute to meaningful projects<br>
         ✨ Open to collaboration and innovative, challenging projects where I can learn and make an impact</b></p>
     </div>
-    <img style="width:30%;"; align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG15aXhoenZxeGZmYzk1Z2x1ajBsZm5qdTBhejF2MHhvYzU2aXNidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif" alt="Jacksen Nillson" width="30%" height="auto"/>
+    <img style="width:30%;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG15aXhoenZxeGZmYzk1Z2x1ajBsZm5qdTBhejF2MHhvYzU2aXNidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif" alt="Jacksen Nillson" width="30%" height="auto"/>
     <div>
     <br><br>
         <img style="height:135px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksen30&show_icons=true&locale=en&layout=compact&&theme=chartreuse-dark" alt="Jacksen Nillson Most Used Coding Languages" />
