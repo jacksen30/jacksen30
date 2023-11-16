@@ -3,14 +3,22 @@
     <h2 style="margin:0px 0px 3px 0px;">I'm Jacksen, Welcome to my GitHub,</h2>
     <div>
         <div>
-        <img style="width:30%;" align="right"; src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG15aXhoenZxeGZmYzk1Z2x1ajBsZm5qdTBhejF2MHhvYzU2aXNidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif" alt="Jacksen Nillson" width="15%" height="auto"/>
+        <img style="width:30%;" align="right"; src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG15aXhoenZxeGZmYzk1Z2x1ajBsZm5qdTBhejF2MHhvYzU2aXNidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif" alt="Jacksen Nillson" width="30%" height="auto"/>
         <p>👨‍💻 Enthusiastic Student & Emerging Front-End Developer</p>
         <p>🚀 Passionate about creating engaging, user-friendly web interfaces</p>
         <p>🛠️ Skills: HTML, CSS, JavaScript, and React for dynamic features</p>
         <p style="margin:0;">🌟 Currently exploring TypeScript for enhanced code quality</p>
-        <p>🌱 Eager to transition into a programming career and contribute to meaningful projects</p>
+        <p>🌟 Currently exploring TypeScript for enhanced code quality</p>
         <p>✨ Open to collaboration and innovative, challenging projects where I can learn and make an impact</p>
         </div>
+        <ul style="list-style:none;">
+            <li>👨‍💻 Enthusiastic Student & Emerging Front-End Developer</li>
+            <li>🚀 Passionate about creating engaging, user-friendly web interfaces</li>
+            <li>🛠️ Skills: HTML, CSS, JavaScript, and React for dynamic features</li>
+            <li>🌟 Currently exploring TypeScript for enhanced code quality</li>
+            <li>🌟 Currently exploring TypeScript for enhanced code quality</li>
+            <li>✨ Open to collaboration and innovative, challenging projects where I can learn and make an impact</li>
+        </ul>
     </div>
     <div style="">
         <img style="height:135px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksen30&show_icons=true&locale=en&layout=compact" alt="Jacksen Nillson Most Used Coding Languages" />
