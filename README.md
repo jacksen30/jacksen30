@@ -11,8 +11,8 @@
     </div>
     <div style="">
         <img style="height:140px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksen30&show_icons=true&locale=en&layout=compact" alt="Jacksen Nillson Most Used Coding Languages" />
-        <img style="height:140px;" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksen30&" alt="Jacksen Nillson Github streak" />
         <img style="height:140px;" src="https://github-readme-stats.vercel.app/api?username=jacksen30&show_icons=true&locale=en" alt="Jacksen Nillson Github Stats" />
+        <img style="height:160px;" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksen30&" alt="Jacksen Nillson Github streak" />
     </div>
     <h3>💻 Technologies & Tools</h3>
     <div>
